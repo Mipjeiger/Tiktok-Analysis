@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/User/AppData/Roaming/Python/Python313/site-packages/ML-Production/Tiktok-ML/mlruns/557843045844694596
+creation_time: 1757253692474
+experiment_id: '557843045844694596'
+last_update_time: 1757253692474
+lifecycle_stage: active
+name: tiktok-ml-best-model

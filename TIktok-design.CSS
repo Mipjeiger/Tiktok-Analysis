@@ -1,0 +1,51 @@
+HTML("""<style>
+    @import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
+    .credits {
+        display: block;
+        border-radius: 4px;
+        font-weight: bold;
+        background: #452756;
+        padding: 10rem;
+        position: relative;
+    }
+    
+    .creditsunicorn {
+        display: inline-block;
+        background: url('./dabbing-unicorn.png') no-repeat;
+        width: 190px;
+        height: 100px;
+        position: absolute;
+        right:0;
+        bottom:0;
+    }
+    
+    .credits-title {
+        font-family: 'Cookie', cursive;
+        position: relative;
+        top: -10px;
+        font-size: 50px;
+        color: #A2D2FF;
+        margin-bottom: 20px;
+    }
+    
+    .credits-title > span {
+        color: #FFAFCC;
+    }
+    
+    .credits-text {
+        color: white;
+        line-height: 1.8 !important;
+    }
+    
+    .credits-title-star {
+        position: absolute;
+        right: 10px;
+        top: 10px;
+        font-size: 80px;
+    }
+    
+    strong {
+        font-weight: bold!important
+    }
+    </style>""")

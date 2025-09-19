@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/User/AppData/Roaming/Python/Python313/site-packages/ML-Production/Tiktok-ML/mlruns/557843045844694596/models/m-53b908842f9e4634b1365ea29a36694b/artifacts
+creation_timestamp: 1757253859610
+experiment_id: '557843045844694596'
+last_updated_timestamp: 1757253872495
+model_id: m-53b908842f9e4634b1365ea29a36694b
+model_type: null
+name: model
+source_run_id: 3376bf97ab614e1ba38c60ebaf306d5c
+status: 2
+status_message: null

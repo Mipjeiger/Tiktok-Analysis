@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/User/AppData/Roaming/Python/Python313/site-packages/ML-Production/Tiktok-ML/mlruns/557843045844694596/5b5021a51df1489fa4daa31c8807786c/artifacts
+end_time: 1757253727785
+entry_point_name: ''
+experiment_id: '557843045844694596'
+lifecycle_stage: active
+run_id: 5b5021a51df1489fa4daa31c8807786c
+run_name: logreg_2025-09-07T14:01:32.493396Z
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757253692944
+status: 3
+tags: []
+user_id: User
